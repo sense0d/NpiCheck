@@ -13,4 +13,4 @@
 
 **H<sub>2</sub>O**
 
-**this N<sup>_i_ bit*
+**this N<sup>_i_</sup> bit*
